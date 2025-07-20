@@ -2,9 +2,8 @@
 
 Cart is a comprehensive full-stack MERN application designed to streamline the online shopping experience. It allows customers to easily place and manage their orders, enables sellers to list and manage their products, and provides administrators with powerful tools to oversee and control the entire platform effectively.
 
-## 🌐 Deployment
 
-⭐️ **Cart is now live and can be accessed at the following link: [Cart Deployment](https://azura-cart.vercel.app/)**
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
