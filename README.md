@@ -1,4 +1,4 @@
-<h1 align="center">Cart</h1>
+<h1 align="center">ShopNest</h1>
 
  ShopNest is a comprehensive full-stack MERN application designed to streamline the online shopping experience. It allows customers to easily place and manage their orders, enables sellers to list and manage their products, and provides administrators with powerful tools to oversee and control the entire platform effectively.
 
@@ -15,7 +15,7 @@
 
 - **JWT-Based Authentication**: Secures user access with JSON Web Tokens.
 
-- **Add-to-Cart**: Allows customers to manage their product selections before checkout.
+- **Add-to-ShopNest**: Allows customers to manage their product selections before checkout.
 
 - **Discounts & Coupons**: Supports promotional codes and offers.
 
