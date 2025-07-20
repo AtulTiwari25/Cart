@@ -1,6 +1,6 @@
 <h1 align="center">Cart</h1>
 
-Cart is a comprehensive full-stack MERN application designed to streamline the online shopping experience. It allows customers to easily place and manage their orders, enables sellers to list and manage their products, and provides administrators with powerful tools to oversee and control the entire platform effectively.
+ ShopNest is a comprehensive full-stack MERN application designed to streamline the online shopping experience. It allows customers to easily place and manage their orders, enables sellers to list and manage their products, and provides administrators with powerful tools to oversee and control the entire platform effectively.
 
 
 
